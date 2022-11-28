@@ -1,0 +1,302 @@
+11:36:17.176 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+11:36:17.479 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+11:36:18.398 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+11:36:18.415 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+11:36:22.275 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+11:36:22.346 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+11:36:22.348 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:00:58.098 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:00:58.295 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+13:00:59.467 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+13:00:59.474 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+13:01:03.083 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+13:01:03.149 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+13:01:03.159 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:01:54.727 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:01:55.926 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+13:01:59.861 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+13:01:59.870 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+13:02:08.713 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+13:02:08.730 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+13:02:08.732 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:02:30.189 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:02:30.529 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+13:02:30.977 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+13:02:30.981 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+13:02:33.805 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+13:02:33.829 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+13:02:33.831 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:03:10.032 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:03:10.362 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+13:03:10.978 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+13:03:10.989 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+13:03:14.129 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+13:03:14.162 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+13:03:14.164 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:08:25.614 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:08:28.597 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+13:08:31.351 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:08:31.413 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+13:08:33.239 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+13:08:33.244 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+13:08:33.753 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+13:08:33.755 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+13:08:38.124 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+13:08:38.156 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+13:08:38.158 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:08:41.196 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+13:08:41.245 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+13:08:41.246 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:11:45.800 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:11:46.010 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+13:11:46.928 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:11:46.986 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+13:11:47.333 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+13:11:47.338 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+13:11:48.439 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+13:11:48.443 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+13:11:51.006 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+13:11:51.043 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+13:11:51.045 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+13:11:51.661 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+13:11:51.688 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+13:11:51.688 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+14:22:45.925 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+14:22:46.298 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+14:22:47.297 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+14:22:47.305 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+14:22:51.443 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+14:22:51.559 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+14:22:51.562 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+15:05:37.190 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+15:05:37.311 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+15:05:38.275 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+15:05:38.280 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+15:05:41.449 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+15:05:41.486 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+15:05:41.488 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest ***
+15:07:49.975 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+15:07:50.070 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+15:07:50.873 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+15:07:50.877 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+15:07:52.167 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+15:08:02.239 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message
+18:20:41.697 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+18:20:45.284 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+19:36:45.291 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+19:36:49.941 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+19:36:50.006 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+19:37:01.658 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+19:37:01.661 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+19:37:13.024 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+19:37:13.027 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+19:37:23.945 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+19:37:23.948 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+19:37:34.769 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+19:40:33.192 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+19:40:35.106 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+19:40:35.125 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+19:40:40.968 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+19:40:40.972 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+19:40:47.547 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+19:40:47.549 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+19:40:53.811 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+19:40:53.814 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+19:41:00.011 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+20:06:46.695 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+20:06:48.386 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+20:08:56.929 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+20:08:58.283 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+20:10:36.767 [main] INFO  testCases.TC_001_AccountRegistrationTest - Strating TC_001_AccountRegistrationtTest
+20:10:36.843 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account 
+20:10:37.999 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register 
+20:10:38.118 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided First Name 
+20:10:38.199 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Last Name 
+20:10:38.279 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Email 
+20:10:38.353 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Telephone 
+20:10:38.425 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Password 
+20:10:38.496 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Confrmed Password 
+20:10:38.549 [main] INFO  testCases.TC_001_AccountRegistrationTest - Set Privacy Policy 
+20:10:41.791 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue 
+20:10:43.992 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationtTest
+20:10:48.570 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+20:10:49.999 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+20:18:20.254 [main] INFO  testCases.TC_001_AccountRegistrationTest - Strating TC_001_AccountRegistrationtTest
+20:18:20.345 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account 
+20:18:20.835 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register 
+20:18:20.923 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided First Name 
+20:18:20.923 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Last Name 
+20:18:21.006 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Email 
+20:18:21.067 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Telephone 
+20:18:21.133 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Password 
+20:18:21.197 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Confrmed Password 
+20:18:21.244 [main] INFO  testCases.TC_001_AccountRegistrationTest - Set Privacy Policy 
+20:18:21.748 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue 
+20:18:34.421 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+20:18:35.464 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+20:18:41.536 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+20:18:46.786 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+20:18:46.791 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+20:18:54.232 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+20:18:54.235 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+20:19:00.733 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+20:19:00.735 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+20:19:06.976 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+20:19:06.980 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+20:19:12.836 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+20:22:13.289 [main] INFO  testCases.TC_001_AccountRegistrationTest - Strating TC_001_AccountRegistrationtTest
+20:22:13.401 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account 
+20:22:14.062 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register 
+20:22:14.164 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided First Name 
+20:22:14.237 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Last Name 
+20:22:14.319 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Email 
+20:22:14.387 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Telephone 
+20:22:14.459 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Password 
+20:22:14.527 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Confrmed Password 
+20:22:14.574 [main] INFO  testCases.TC_001_AccountRegistrationTest - Set Privacy Policy 
+20:22:17.260 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue 
+20:22:19.297 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationtTest
+12:35:35.904 [main] INFO  testCases.TC_001_AccountRegistrationTest - Strating TC_001_AccountRegistrationtTest
+12:35:36.545 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account 
+12:35:42.253 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register 
+12:35:43.667 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided First Name 
+12:35:43.725 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Last Name 
+12:35:43.791 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Email 
+12:35:43.859 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Telephone 
+12:35:43.921 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Password 
+12:35:43.978 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Confrmed Password 
+12:35:44.707 [main] INFO  testCases.TC_001_AccountRegistrationTest - Set Privacy Policy 
+12:35:58.821 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue 
+12:36:01.179 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationtTest
+12:36:09.143 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+12:36:11.381 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+12:36:18.088 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+12:36:20.029 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+12:36:20.030 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+12:36:25.983 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+12:36:25.984 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+12:36:32.272 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+12:36:32.273 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+12:36:38.350 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+12:36:38.351 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+12:36:44.506 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:22:54.306 [main] INFO  testCases.TC_001_AccountRegistrationTest - Strating TC_001_AccountRegistrationtTest
+13:22:54.398 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account 
+13:22:55.028 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register 
+13:22:55.113 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided First Name 
+13:22:55.189 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Last Name 
+13:22:55.266 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Email 
+13:22:55.338 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Telephone 
+13:22:55.410 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Password 
+13:22:55.482 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Confrmed Password 
+13:22:55.536 [main] INFO  testCases.TC_001_AccountRegistrationTest - Set Privacy Policy 
+13:22:58.136 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue 
+13:23:00.220 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationtTest
+13:23:05.484 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+13:23:06.665 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+13:23:12.401 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:23:14.759 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:23:14.765 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:23:21.058 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:23:21.059 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:23:27.410 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:23:27.411 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:23:33.703 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:23:33.704 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:23:39.735 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:36:08.266 [main] INFO  testCases.TC_001_AccountRegistrationTest - Strating TC_001_AccountRegistrationtTest
+13:36:08.388 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account 
+13:36:09.060 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register 
+13:36:09.163 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided First Name 
+13:36:09.235 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Last Name 
+13:36:09.317 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Email 
+13:36:09.387 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Telephone 
+13:36:09.455 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Password 
+13:36:09.529 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Confrmed Password 
+13:36:09.582 [main] INFO  testCases.TC_001_AccountRegistrationTest - Set Privacy Policy 
+13:36:12.478 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue 
+13:36:14.520 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationtTest
+13:36:18.712 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+13:36:19.847 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+13:36:25.880 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:36:27.407 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:36:27.408 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:36:33.458 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:36:33.459 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:36:39.296 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:36:39.297 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:36:45.176 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:36:45.177 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:36:51.391 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:39:00.925 [main] INFO  testCases.TC_001_AccountRegistrationTest - Strating TC_001_AccountRegistrationtTest
+13:39:01.003 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account 
+13:39:01.660 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register 
+13:39:01.743 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided First Name 
+13:39:01.814 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Last Name 
+13:39:01.891 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Email 
+13:39:01.965 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Telephone 
+13:39:02.035 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Password 
+13:39:02.103 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Confrmed Password 
+13:39:02.153 [main] INFO  testCases.TC_001_AccountRegistrationTest - Set Privacy Policy 
+13:39:04.614 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue 
+13:39:06.657 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationtTest
+13:39:10.914 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+13:39:11.985 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+13:39:17.655 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:39:19.125 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:39:19.127 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:39:24.925 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:39:24.926 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:39:30.693 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:39:30.695 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:39:36.730 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:39:36.731 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:39:42.595 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:40:34.361 [main] INFO  testCases.TC_001_AccountRegistrationTest - Strating TC_001_AccountRegistrationtTest
+13:40:34.446 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account 
+13:40:34.972 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register 
+13:40:35.057 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided First Name 
+13:40:35.130 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Last Name 
+13:40:35.204 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Email 
+13:40:35.278 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Telephone 
+13:40:35.344 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Password 
+13:40:35.411 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Confrmed Password 
+13:40:35.459 [main] INFO  testCases.TC_001_AccountRegistrationTest - Set Privacy Policy 
+13:40:37.925 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue 
+13:40:39.969 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationtTest
+13:40:43.623 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+13:40:45.044 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+13:40:50.794 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:40:53.364 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:40:53.366 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:40:59.744 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:40:59.745 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:41:05.600 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:41:05.601 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:41:11.563 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:41:11.564 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:41:17.862 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:48:46.104 [main] INFO  testCases.TC_001_AccountRegistrationTest - Strating TC_001_AccountRegistrationtTest
+13:48:46.233 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account 
+13:48:46.989 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register 
+13:48:47.100 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided First Name 
+13:48:47.185 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Last Name 
+13:48:47.274 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Email 
+13:48:47.355 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Telephone 
+13:48:47.432 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Password 
+13:48:47.499 [main] INFO  testCases.TC_001_AccountRegistrationTest - Provided Confrmed Password 
+13:48:47.544 [main] INFO  testCases.TC_001_AccountRegistrationTest - Set Privacy Policy 
+13:48:50.119 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue 
+13:48:52.189 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished TC_001_AccountRegistrationtTest
+13:48:56.550 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+13:48:57.953 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+13:49:04.904 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:49:07.324 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:49:07.326 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:49:13.600 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:49:13.601 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:49:19.532 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:49:19.534 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:49:25.703 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+13:49:25.704 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+13:49:32.176 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
